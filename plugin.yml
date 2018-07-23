@@ -1,0 +1,10 @@
+name: BellTagGame
+main: me.blog.minjooon123.belltaggame.BellTagGame
+version: 0.0.2-BETA-SNAPSHOT
+description: >
+             A game of tag with bells.
+             E-mail: minjooon123@naver.com
+commands:
+   belltag:
+      description: Displays all avaliable commands for BellTagGame.
+      usage: /<command> [start|add|clearlist|info]

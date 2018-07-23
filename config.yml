@@ -1,0 +1,16 @@
+#  Bell Tag Game Configurations - v1.0
+#  For further details, contact me on:
+#  Skype ID: minjooon123 | E-mail: minjooon123@naver.com | Twt: @InfectedDuck_KR
+#  Sword Type - 1: 나무 칼, 2: 돌 칼, 3: 철 칼, 4: 금 칼, 5: 다이아 칼
+BellTag:
+  Give Swords to Taggers: false
+  Sword Type: 3
+  Walking Volume: 0.5
+  Sprinting Volume: 1
+  Bell Pitch: 1.95
+  Enable Marker: false
+  Marker Delay In Minutes: 2
+  Tagger on Death: false
+  Nametag Invisibility: false
+  Time to Win Enabled: false
+  Time to Win In Minutes: 10
